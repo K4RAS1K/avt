@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/products/static/css/main.b91597ea.css",
-    "main.js": "/products/static/js/main.e6744b6d.js",
-    "static/media/main-image.png": "/products/static/media/main-image.5d64ffb46f7a28076bf7.png",
-    "static/media/USB-UART-CAN-Converter.png": "/products/static/media/USB-UART-CAN-Converter.070488a129040725a023.png",
-    "static/media/Smart-insurance.png": "/products/static/media/Smart-insurance.ef6f47dc854de36000d9.png",
-    "static/media/Easy-TPMS.png": "/products/static/media/Easy-TPMS.c56196cd992c5a380bc7.png",
-    "static/media/scheme-logo2.png": "/products/static/media/scheme-logo2.294a11df9e5ea2458b45.png",
-    "index.html": "/products/index.html",
-    "main.b91597ea.css.map": "/products/static/css/main.b91597ea.css.map",
-    "main.e6744b6d.js.map": "/products/static/js/main.e6744b6d.js.map"
+    "main.css": "/avt/static/css/main.65dad252.css",
+    "main.js": "/avt/static/js/main.9c1003b2.js",
+    "static/media/main-image.png": "/avt/static/media/main-image.5d64ffb46f7a28076bf7.png",
+    "static/media/USB-UART-CAN-Converter.png": "/avt/static/media/USB-UART-CAN-Converter.070488a129040725a023.png",
+    "static/media/Smart-insurance.png": "/avt/static/media/Smart-insurance.ef6f47dc854de36000d9.png",
+    "static/media/Easy-TPMS.png": "/avt/static/media/Easy-TPMS.c56196cd992c5a380bc7.png",
+    "static/media/scheme-logo2.png": "/avt/static/media/scheme-logo2.294a11df9e5ea2458b45.png",
+    "index.html": "/avt/index.html",
+    "main.65dad252.css.map": "/avt/static/css/main.65dad252.css.map",
+    "main.9c1003b2.js.map": "/avt/static/js/main.9c1003b2.js.map"
   },
   "entrypoints": [
-    "static/css/main.b91597ea.css",
-    "static/js/main.e6744b6d.js"
+    "static/css/main.65dad252.css",
+    "static/js/main.9c1003b2.js"
   ]
 }
